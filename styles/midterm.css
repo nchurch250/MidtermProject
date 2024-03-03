@@ -1,4 +1,9 @@
-
+nav {
+    border-style: solid;
+}
+nav a {
+    text-decoration: none;
+}
 nav ul {
     list-style-type: none;
 }
