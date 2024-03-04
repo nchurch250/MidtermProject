@@ -1,5 +1,6 @@
 nav {
     border-style: solid;
+    border-radius: 10px;
     text-align: center;
     background-color: black;
     font-size: 16pt;
