@@ -1,9 +1,11 @@
 nav {
     border-style: solid;
+    text-align: center;
+    background-color: black;
+    font-size: 16pt;
 }
 nav a {
     text-decoration: none;
-}
-nav ul {
-    list-style-type: none;
+    padding: 10px;
+    color: white;
 }
