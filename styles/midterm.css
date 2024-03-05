@@ -35,3 +35,17 @@ div img {
     max-width: 100%;
     object-fit: cover;
 }
+
+.post {
+    max-width: 30%;
+    max-height: 30%;
+    border-style: outset;
+    border-color: black;
+    border-width: 5px;
+    padding: 0px;
+    margin: 50px;
+}
+
+.postText {
+    margin: 5px;
+}
