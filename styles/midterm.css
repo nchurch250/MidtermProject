@@ -4,6 +4,8 @@ nav {
     text-align: center;
     background-color: black;
     font-size: 16pt;
+    width: 100%;
+    margin: 0px;
 }
 
 nav a {
@@ -36,6 +38,10 @@ div img {
     object-fit: cover;
 }
 
+body {
+    background-color: lightgray;
+}
+
 .post {
     max-width: 30%;
     max-height: 30%;
@@ -43,7 +49,11 @@ div img {
     border-color: black;
     border-width: 5px;
     padding: 0px;
-    margin: 50px;
+    margin-left: 80px;
+    margin-right: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: white;
 }
 
 .postText {
