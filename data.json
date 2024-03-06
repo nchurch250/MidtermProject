@@ -25,12 +25,10 @@
             "location": "Colorado"
         },
         {
-            "description": "Test Image",
-            "url": "./images/templatePicture1.jpg",
-            "date": "",
-            "location": "",
             "description": "Shiny Thundurus",
-            "url": "./images/Thundurus.jpg"
+            "url": "./images/Thundurus.jpg",
+            "date": "",
+            "location": ""
         },
         {
             "description": "Extra Tiny Darkrai",
