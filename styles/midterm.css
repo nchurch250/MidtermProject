@@ -12,6 +12,7 @@ nav a {
     padding: 10px;
     color: white;
 }
+nav a:hover {color: gold}
 
 div {
     padding: 50px;
@@ -41,6 +42,7 @@ body {
     background-color: lightgray;
     margin-left: 0px;
     margin-bottom: 0px;
+    margin-right: 6px;
 }
 
 .post {
