@@ -1,0 +1,12 @@
+{
+    "pictures": [
+        {
+            "description": "Mountain River",
+            "url": "./images/vacationMountainRiver.jpg"
+        },
+        {
+            "description": "Tree Covered Hills",
+            "url": "./images/greenMountains.jpg"
+        }
+    ]
+}
