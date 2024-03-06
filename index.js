@@ -11,13 +11,15 @@ function loadPictures(webPictures) {
         let description = webPictures.pictures[i].description;
         let url = webPictures.pictures[i].url;
 
-        let division = document.getElementById("posts");
+        let division = document.createElement("div");
+
+        division.classList.add("post");
 
         division.innerHTML = `
         <a href=${url}><img src=${url} /></a>
         <p class="postText">${description}
         `;
 
-        // mainContainer.appendChild(division);
+        mainContainer.appendChild(division);
     }
 }

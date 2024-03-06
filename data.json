@@ -7,6 +7,14 @@
         {
             "description": "Tree Covered Hills",
             "url": "./images/greenMountains.jpg"
+        },
+        {
+            "description": "White Top Mountains",
+            "url": "./images/whiteTopMountains.jpg"
+        },
+        {
+            "description": "Backyard River Trail",
+            "url": "./images/backyardRiverTrail.jpg"
         }
     ]
 }
