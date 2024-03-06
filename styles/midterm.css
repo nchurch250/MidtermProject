@@ -20,6 +20,7 @@ div {
 }
 
 .container {
+    background-color: lightgray;
     box-shadow: 0px 2px 3px black;
     margin: 0px 5% 0px 5%;
     border-radius: 10px;
