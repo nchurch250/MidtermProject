@@ -86,3 +86,7 @@ footer {
 footer p {
     margin: 2px;
 }
+footer a{
+    color: white;
+    text-decoration: none;
+}
