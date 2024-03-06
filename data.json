@@ -28,7 +28,21 @@
             "description": "Test Image",
             "url": "./images/templatePicture1.jpg",
             "date": "",
-            "location": ""
+            "location": "",
+            "description": "Shiny Thundurus",
+            "url": "./images/Thundurus.jpg"
+        },
+        {
+            "description": "Extra Tiny Darkrai",
+            "url": "./images/Darkrai.jpg"
+        },
+        {
+            "description": "Origin form Dialga",
+            "url": "./images/OriginDialga.jpg"
+        },
+        {
+            "description": "Origin form Palkia",
+            "url": "./images/OriginPalkia.jpg"
         }
     ]
 }
