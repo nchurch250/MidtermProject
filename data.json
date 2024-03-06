@@ -2,23 +2,33 @@
     "page1": [
         {
             "description": "Mountain River",
-            "url": "./images/vacationMountainRiver.jpg"
+            "url": "./images/vacationMountainRiver.jpg",
+            "date": "July 15, 2023",
+            "location": "Colorado"
         },
         {
             "description": "Tree Covered Hills",
-            "url": "./images/greenMountains.jpg"
+            "url": "./images/greenMountains.jpg",
+            "date": "July 15, 2023",
+            "location": "Colorado"
         },
         {
             "description": "White Top Mountains",
-            "url": "./images/whiteTopMountains.jpg"
+            "url": "./images/whiteTopMountains.jpg",
+            "date": "July 13, 2023",
+            "location": "Colorado"
         },
         {
             "description": "Backyard River Trail",
-            "url": "./images/backyardRiverTrail.jpg"
+            "url": "./images/backyardRiverTrail.jpg",
+            "date": "July 12, 2023",
+            "location": "Colorado"
         },
         {
             "description": "Test Image",
-            "url": "./images/templatePicture1.jpg"
+            "url": "./images/templatePicture1.jpg",
+            "date": "",
+            "location": ""
         }
     ]
 }

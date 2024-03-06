@@ -10,6 +10,8 @@ function loadPictures(webPictures) {
     for (let i=0; i<4; i++) {
         let description = webPictures.page1[i].description;
         let url = webPictures.page1[i].url;
+        let location = webPictures.page1[i].location;
+        let date = webPictures.page1[i].date;
 
         let division = document.createElement("div");
 
@@ -18,6 +20,8 @@ function loadPictures(webPictures) {
         division.innerHTML = `
         <a href=${url}><img src=${url} /></a>
         <p class="postText">${description}
+        <p class="postText">${location}
+        <p class="postText">${date}
         `;
 
         mainContainer.appendChild(division);
