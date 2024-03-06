@@ -55,6 +55,9 @@ body {
     margin-bottom: 30px;
     background-color: white;
 }
+#posts {
+    padding: 0px;
+}
 
 .postText {
     margin: 5px;
