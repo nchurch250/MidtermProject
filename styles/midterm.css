@@ -1,6 +1,5 @@
 nav {
     border-style: solid;
-    border-radius: 10px;
     text-align: center;
     background-color: black;
     font-size: 16pt;
@@ -40,6 +39,7 @@ div img {
 
 body {
     background-color: lightgray;
+    margin-left: 0px
 }
 
 .post {
@@ -51,11 +51,16 @@ body {
     padding: 0px;
     margin-left: 80px;
     margin-right: 40px;
-    margin-top: 30px;
+    margin-top: 20px;
     margin-bottom: 30px;
     background-color: white;
 }
 
 .postText {
     margin: 5px;
+}
+
+header {
+    margin-bottom: 10px;
+    margin-left: 20px;
 }
