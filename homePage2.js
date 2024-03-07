@@ -7,7 +7,7 @@ function loadPictures(webPictures) {
 
     var mainContainer = document.getElementById("posts2");
 
-    for (let i=4; i<webPictures.page1.length; i++) {
+    for (let i=8; i<webPictures.page1.length; i++) {
         let description = webPictures.page1[i].description;
         let url = webPictures.page1[i].url;
         let location = webPictures.page1[i].location;

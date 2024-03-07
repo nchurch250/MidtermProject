@@ -25,6 +25,30 @@
             "location": "Colorado"
         },
         {
+            "description": "Valley",
+            "url": "./images/valley.jpg",
+            "date": "July 12, 2023",
+            "location": "Colorado"
+        },
+        {
+            "description": "Road Through Trees",
+            "url": "./images/roadThroughTrees.jpg",
+            "date": "July 13, 2023",
+            "location": "Colorado"
+        },
+        {
+            "description": "Mountain Trail",
+            "url": "./images/mountainTrail1.jpg",
+            "date": "July 13, 2023",
+            "location": "Colorado"
+        },
+        {
+            "description": "Mountain Trail",
+            "url": "./images/mountainTrail2.jpg",
+            "date": "July 13, 2023",
+            "location": "Colorado"
+        },
+        {
             "description": "Shiny Thundurus",
             "url": "./images/Thundurus.jpg",
             "date": "",
