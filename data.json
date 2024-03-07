@@ -51,20 +51,26 @@
         {
             "description": "Shiny Thundurus",
             "url": "./images/Thundurus.jpg",
-            "date": "",
-            "location": ""
+            "date": "March 24, 2023",
+            "location": "Ames"
         },
         {
             "description": "Extra Tiny Darkrai",
-            "url": "./images/Darkrai.jpg"
+            "url": "./images/Darkrai.jpg",
+            "date": "February 23, 2024",
+            "location": "Ames"
         },
         {
-            "description": "Origin form Dialga",
-            "url": "./images/OriginDialga.jpg"
+            "description": "Origin Form Dialga",
+            "url": "./images/OriginDialga.jpg",
+            "date": "February 24, 2024",
+            "location": "Ames"
         },
         {
-            "description": "Origin form Palkia",
-            "url": "./images/OriginPalkia.jpg"
+            "description": "Origin Form Palkia",
+            "url": "./images/OriginPalkia.jpg",
+            "date": "February 24, 2024",
+            "location": "Ames"
         }
     ]
 }
